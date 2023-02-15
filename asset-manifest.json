@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Math-Anagram-Games/static/css/main.71afea5e.css",
+    "main.js": "/Math-Anagram-Games/static/js/main.47e8eced.js",
+    "static/js/787.3c46be1b.chunk.js": "/Math-Anagram-Games/static/js/787.3c46be1b.chunk.js",
+    "index.html": "/Math-Anagram-Games/index.html",
+    "main.71afea5e.css.map": "/Math-Anagram-Games/static/css/main.71afea5e.css.map",
+    "main.47e8eced.js.map": "/Math-Anagram-Games/static/js/main.47e8eced.js.map",
+    "787.3c46be1b.chunk.js.map": "/Math-Anagram-Games/static/js/787.3c46be1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71afea5e.css",
+    "static/js/main.47e8eced.js"
+  ]
+}
