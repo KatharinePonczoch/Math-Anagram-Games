@@ -18,7 +18,7 @@ function App() {
     <div className="App">
       <Header />
       <Routes>
-        <Route exact path="/" element={<Main />} />
+        <Route exact path="/Math-Anagram-Games/" element={<Main />} />
 
         <Route
           path="/MathStart"
