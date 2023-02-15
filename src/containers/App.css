@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  /* margin: 1 em auto; */
+  height: 450px;
+  width: 500px;
+}
+
+.smContainer {
+  width: 380px;
+}
+
+#buttons button {
+  border-radius: 0.25em;
+  font-size: 3em;
+  height: 2em;
+  margin: 0.1em;
+  text-align: center;
+  width: 2em;
+}
+
+footer,
+header {
+  background-color: #e9f3fb;
+  padding: 1em;
+}
+ul {
+  text-align: left;
+  list-style: none;
+}

@@ -1,0 +1,40 @@
+#equation {
+  font-size: 1.6em;
+  margin: auto;
+  width: 90%;
+}
+
+#button {
+  margin: auto;
+}
+
+#choiceFooter {
+  height: 25%;
+  width: 40%;
+  position: absolute;
+  justify-content: center;
+  bottom: 0;
+  padding: auto;
+}
+.container {
+  height: 500px;
+  width: 700px;
+  position: relative;
+}
+/* .smContainer {
+  height: 220px;
+  border-top: 90px;
+  border-right: 10px;
+  border-bottom: 10px;
+  border-left: 15px;
+  border-color: slategrey;
+} */
+
+.gameChoice {
+  width: 50%;
+}
+
+/* main {
+  width: 700px;
+  margin: auto;
+} */
