@@ -112,7 +112,10 @@ function MathGame({ operation, maxNumber }) {
 
         <br />
         <div>
-          <Link className="btn btn-secondary form control" to="/">
+          <Link
+            className="btn btn-secondary form control"
+            to="/Math-Anagram-Games/"
+          >
             Back to Start Screen
           </Link>
         </div>
